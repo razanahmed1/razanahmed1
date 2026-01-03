@@ -37,6 +37,41 @@ My goal is to build data‑driven solutions that are visual, meaningful, and eas
 
 ---
 
+### 🚀 Projects
+
+#### 📊 Excel Data Analysis Projects
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=excel&theme=dark" width="45" />
+</div>
+
+- **Sales Performance Analysis** — Cleaning, organizing, and analyzing sales data to identify trends and performance gaps.  
+- **Customer Insights Dashboard** — Using Excel formulas, pivot tables, and charts to extract insights and visualize customer behavior.
+
+---
+
+#### 📈 Power BI Dashboards
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="45" />
+</div>
+
+- **Business KPI Dashboard** — Visualizing key performance indicators with interactive charts.  
+- **Financial Overview Report** — Modeling financial data and presenting it in a clear, visual dashboard.  
+- **Operations & Productivity Dashboard** — Tracking workflow efficiency and highlighting improvement areas.
+
+---
+
+#### 🌐 Portfolio Website
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="150" />
+</div>
+
+A clean and simple personal website built using **HTML, CSS, and JavaScript** to showcase:
+- Your skills  
+- Your projects  
+- Your contact information  
+
+---
+
 ### 📊 My GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=razanahmed1&show_icons=true&theme=transparent&title_color=4FC3F7&text_color=ffffff&icon_color=4FC3F7&hide_border=true" height="165" alt="GitHub Stats" />
