@@ -33,16 +33,15 @@ My focus is on creating solutions that help people understand information quickl
 ### 🛠️ My Toolbox
 <div align="center">
 
-  <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
-
-  <br><br>
-
-  <!-- Excel + Power BI Icons (side by side) -->
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" />
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" width="50" alt="Excel Icon" />
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="Power BI Icon" />
 
 </div>
+
 ---
 
 ### 🚀 Projects
