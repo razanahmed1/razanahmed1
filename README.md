@@ -38,12 +38,11 @@ My focus is on creating solutions that help people understand information quickl
   <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
 
   <br><br>
-
-  <!-- Excel Icon (PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Excel_2013_logo.svg/120px-Microsoft_Excel_2013_logo.svg.png" width="50" alt="Excel Logo" />
-
+ 
   <!-- Power BI Icon (PNG) -->
-<img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" width="50" alt="Excel Icon" />
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="Power BI Icon" />
+  <!-- Excel Icon (PNG) -->
+  <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" width="50" alt="Excel Icon" />
 
 </div>
 
