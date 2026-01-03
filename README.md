@@ -38,11 +38,11 @@ My focus is on creating solutions that help people understand information quickl
 
   <br><br>
 
-  <!-- Excel Icon (ORIGINAL + WORKING) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="60" />
+  <!-- Excel Badge -->
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-  <!-- Power BI Icon (ORIGINAL + WORKING) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="60" />
+  <!-- Power BI Badge -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" />
 
 </div>
 
