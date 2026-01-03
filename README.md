@@ -38,11 +38,11 @@ My focus is on creating solutions that help people understand information quickl
 
   <br><br>
 
-  <!-- Excel Icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="60" />
+  <!-- Excel Icon (ORIGINAL + WORKING) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="60" />
 
-  <!-- Power BI Icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" />
+  <!-- Power BI Icon (ORIGINAL + WORKING) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="60" />
 
 </div>
 
