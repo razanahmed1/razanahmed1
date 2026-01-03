@@ -32,7 +32,10 @@ My goal is to build data‑driven solutions that are visual, meaningful, and eas
 
 ### 🛠️ My Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,html,css,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" />
 </div>
 
 ---
@@ -40,31 +43,15 @@ My goal is to build data‑driven solutions that are visual, meaningful, and eas
 ### 🚀 Projects
 
 #### 📊 Excel Data Analysis Projects
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=excel&theme=dark" width="45" />
-</div>
-
 - **Sales Performance Analysis** — Cleaning, organizing, and analyzing sales data to identify trends and performance gaps.  
 - **Customer Insights Dashboard** — Using Excel formulas, pivot tables, and charts to extract insights and visualize customer behavior.
 
----
-
 #### 📈 Power BI Dashboards
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="45" />
-</div>
-
 - **Business KPI Dashboard** — Visualizing key performance indicators with interactive charts.  
 - **Financial Overview Report** — Modeling financial data and presenting it in a clear, visual dashboard.  
 - **Operations & Productivity Dashboard** — Tracking workflow efficiency and highlighting improvement areas.
 
----
-
 #### 🌐 Portfolio Website
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="150" />
-</div>
-
 A clean and simple personal website built using **HTML, CSS, and JavaScript** to showcase:
 - Your skills  
 - Your projects  
