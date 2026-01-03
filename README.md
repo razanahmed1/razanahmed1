@@ -31,6 +31,7 @@ My focus is on creating solutions that help people understand information quickl
 ---
 
 ### 🛠️ My Toolbox
+### 🛠️ My Toolbox
 <div align="center">
 
   <!-- Web Development -->
@@ -38,11 +39,11 @@ My focus is on creating solutions that help people understand information quickl
 
   <br><br>
 
-  <!-- Excel Badge -->
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <!-- Excel Icon (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Excel_2013_logo.svg/120px-Microsoft_Excel_2013_logo.svg.png" width="50" alt="Excel Logo" />
 
-  <!-- Power BI Badge -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <!-- Power BI Icon (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/120px-New_Power_BI_Logo.svg.png" width="50" alt="Power BI Logo" />
 
 </div>
 
