@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Razan Alageeli 👋</h1>
   <p align="center">
-    <b>Computer Science | Data Analysis | Web Development</b>
+    <b>Computer Science | Data Analysis | Technical Support | Web Development</b>
   </p>
 
   <a href="https://git.io/typing-svg">
