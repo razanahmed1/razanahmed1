@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1 align="center">Hi, I'm Razan Alageeli 👋</h1>
   <p align="center">
@@ -5,7 +6,7 @@
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science;Data+Analysis;Web+Development;Excel+%26+Power+BI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Computer+Science;Data+Analysis;Web+Development;Technical+Support;Excel+%26+Power+BI" alt="Typing SVG" />
   </a>
 </div>
 
