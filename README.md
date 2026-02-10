@@ -40,6 +40,7 @@ My focus is on creating solutions that help people understand information quickl
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" />
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" width="50" alt="Excel Icon" />
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="Power BI Icon" />
+  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="50" alt="Tableau Icon" />
 
 </div>
 
